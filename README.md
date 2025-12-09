@@ -1,5 +1,6 @@
 ⚙️ Projekt Infrastruktury Sieciowej i Serwerowej
 Cel projektu: Projekt koncepcyjny, kompleksowej infrastruktury IT dla małej firmy, z naciskiem na segmentację sieci (VLAN), centralne zarządzanie systemami Windows Server (Active Directory, DHCP, DNS) oraz implementację kluczowych mechanizmów bezpieczeństwa (Firewall, GPO) i kopii zapasowych.
+<img width="1878" height="938" alt="diagram" src="https://github.com/user-attachments/assets/75648fde-80ee-42af-ba23-af0110a4f6bf" />
 
 Technologie i Koncepcje:
 
